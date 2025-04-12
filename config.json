@@ -1,0 +1,10 @@
+{
+    "MicrosoftGraph": {
+        "ClientId": "YOUR_CLIENT_ID",
+        "ClientSecret": "YOUR_CLIENT_SECRET",
+        "TenantId": "YOUR_TENANT_ID",
+        "Authority": "https://login.microsoftonline.com/YOUR_TENANT_ID",
+        "Scopes": ["https://graph.microsoft.com/.default"]
+    },
+    "Environment": "Production"
+}
